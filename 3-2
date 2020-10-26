@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T21:35:32.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="lLsQqFoaOUyhEWBcf08d" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T22:14:45.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="j9u2o-i1_5Dmy2rFIqHh" version="13.8.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2736" dy="850" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -301,7 +301,7 @@
         <mxCell id="dWdN4WEEzmkeSQz_DiO3-179" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="dWdN4WEEzmkeSQz_DiO3-178">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dWdN4WEEzmkeSQz_DiO3-180" value="books" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="dWdN4WEEzmkeSQz_DiO3-178">
+        <mxCell id="dWdN4WEEzmkeSQz_DiO3-180" value="book_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="dWdN4WEEzmkeSQz_DiO3-178">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dWdN4WEEzmkeSQz_DiO3-131" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="dWdN4WEEzmkeSQz_DiO3-127">
